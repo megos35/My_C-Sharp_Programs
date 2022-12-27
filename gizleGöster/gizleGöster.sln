@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gizleGöster", "gizleGöster\gizleGöster.csproj", "{0C3B0284-AE24-4F10-91F1-9B1EE9A5BA6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C3B0284-AE24-4F10-91F1-9B1EE9A5BA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3B0284-AE24-4F10-91F1-9B1EE9A5BA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3B0284-AE24-4F10-91F1-9B1EE9A5BA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3B0284-AE24-4F10-91F1-9B1EE9A5BA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6367455-621E-4478-BD50-5913D7CA9748}
+	EndGlobalSection
+EndGlobal
